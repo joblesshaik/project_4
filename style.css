@@ -1,0 +1,86 @@
+.container{
+    display: inline;
+    max-width:100vh;
+}
+
+*{
+    font-family: Poppins;
+  
+}
+.navbar-container{
+display: flex;
+
+
+}
+.navbar-container div img{
+width:120px;
+padding: 25px;
+}
+.grow-list{
+    display: flex;
+}
+.list :nth-child(1){
+    font-weight: 300;
+  
+
+}
+.list-item{
+    position: relative;
+    top: 18px;
+    padding-left: 30px;
+    font-weight: 100;
+    font-size: small;
+    list-style-type: none;
+    float: left;
+}
+.button-group button{
+position: absolute;
+top: 25px;
+left: 88%;
+padding: 10px 10px;
+border: 0px;
+border-radius: 8px;
+background-color: #6636c8;
+color:white;
+}
+.banner-container div h1{
+    position: absolute;
+    left: 24px;
+    top: 20%;
+    max-width: 400px;
+    font-size: 55px;
+    color: #150339;
+}
+.banner-container div h1 span{
+color:  #6636c8;
+}
+
+.banner-container div p{
+  font-weight: 200;
+  font-size: small;
+  position: absolute;
+  left: 20px;
+  top: 70%;
+  max-width: 300px;
+    }
+
+    .banner-container div button {
+        position: absolute;
+        left: 40px;
+        top: 85%;
+        padding: 15px 20px;
+        border: 0px;
+        border-radius: 8px;
+        background-color: #6636c8;
+        color:white;
+          }
+
+
+.banner-container div img {
+    position: absolute;
+    top: 15%;
+    left: 41%;
+    width: 600px;
+
+}
+
