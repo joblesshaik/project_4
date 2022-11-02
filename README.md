@@ -15,7 +15,7 @@
 
 ## Preview Of Site
 
-![Preview](thumbnail.png>)
+![Preview](thumbnail.png)
 
 ## Live Link
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f2172b7-845e-4564-a70b-d772af0a5de9/deploy-status)](https://app.netlify.com/sites/lcoproject14/deploys)
